@@ -9,11 +9,11 @@
   <a href="https://linkedin.com/in/shubham-saxena-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Shubham_Saxena-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shubh.lpu16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubh.lpu16%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:shubham.saxena.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shubham.saxena.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/shubhlpu16">
-    <img src="https://img.shields.io/github/followers/shubhlpu16?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/>
+  <a href="https://github.com/shubhamsaxena-dev">
+    <img src="https://img.shields.io/github/followers/shubhamsaxena-dev?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I care about the same problems the best infrastructure teams in the world care a
 - 🎯 Long-term goal: build infrastructure-grade software at Google — where scale, correctness, and craft aren't optional
 - 🧠 Sharpening data structures, algorithms, and distributed-systems fundamentals alongside day-to-day product work
 - 💬 Ask me about frontend performance, canvas rendering, system design, AI-augmented engineering, or how to make something fast *and* correct
-- 📫 Reach me at **shubh.lpu16@gmail.com**
+- 📫 Reach me at **shubham.saxena.dev@gmail.com**
 - ⚡ Fun fact: adventure-loving tech enthusiast and gamer, still debugging life one edge case at a time
 
 ---
@@ -85,16 +85,16 @@ I care about the same problems the best infrastructure teams in the world care a
 | [**Shoowflix Live**](https://live.shoowflix.com) | Live TV streaming with custom cloud transcoding | Next.js, HLS, DASH, FFmpeg, Oracle Cloud |
 | [**Resume Editor**](https://editresume.vercel.app) | Resume builder with live preview & CSS customization | React |
 
-📁 [View all 37 repositories →](https://github.com/shubhlpu16?tab=repositories)
+📁 [View all 37 repositories →](https://github.com/shubhamsaxena-dev?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/shubhlpu16?style=flat-square&label=Total%20Stars&logo=github" alt="Total Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shubhlpu16&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" alt="Public Repos"/>
-  <img src="https://img.shields.io/github/followers/shubhlpu16?style=flat-square&label=Followers&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/shubhamsaxena-dev?style=flat-square&label=Total%20Stars&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shubhamsaxena-dev&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/shubhamsaxena-dev?style=flat-square&label=Followers&logo=github" alt="Followers"/>
 </p>
 
 ---
