@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI-Augmented Engineering & Scalable Systems</h3>
 
 <p align="center">
-  <em>6+ years building high-performance, scalable web applications — and a software engineer who knows how to work with AI, building Claude Code-driven workflows across the spec-driven SDLC. Specialized in performance-heavy frontend systems, canvas rendering architectures, and backend ownership. Reduced onboarding time by 50%, improved load performance by 40%, and optimized real-time rendering systems at scale.</em>
+  <em>6 years building high-performance, scalable web applications — and a software engineer who knows how to work with AI, building Claude Code-driven workflows across the spec-driven SDLC. Specialized in performance-heavy frontend systems, canvas rendering architectures, and backend ownership. Reduced onboarding time by 50%, improved load performance by 40%, and optimized real-time rendering systems at scale.</em>
 </p>
 
 <p align="center">
@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shubham_Saxena-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shubham.saxena.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shubham.saxena.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+    <a href="mailto:shubh.lpu16@gmail.com">
     <img src="https://img.shields.io/badge/Email-shubham.saxena.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/shubhamsaxena-dev">
