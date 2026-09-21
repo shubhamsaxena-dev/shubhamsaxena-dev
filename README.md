@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-shubham.saxena.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
     <a href="mailto:shubh.lpu16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubham.saxena.dev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-shubh.lpu16%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/shubhamsaxena-dev">
     <img src="https://img.shields.io/github/followers/shubhamsaxena-dev?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/>
